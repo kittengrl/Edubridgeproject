@@ -1,2 +1,2 @@
 # Edubridgeproject
-Coursecompletetion projecy
+Coursecompletetion project
